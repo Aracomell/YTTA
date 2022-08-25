@@ -5,31 +5,31 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6289510598381','6289510598381'] 
+global.owner = ['6289504231588','6289504231588'] 
 global.mods = [''] 
-global.prems = ['6289510598381'] 
+global.prems = ['6289504231588'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'YogzFX'
-global.numberowner = '6289510598381','6289510598381',
-global.instagram = 'https://instagram.com/karfuanyogich'
+global.nameowner = '𝑨𝒓𝒂𝒂 𝒌𝒂𝒘𝒂𝒊𝒊'
+global.numberowner = '6289504231588','6289504231588',
+global.instagram = 'https://www.instagram.com/rizkyrajinsekolah5'
 global.github = 'https://github.com/YogzFX'
 global.Youtube = 'https://youtube.com/channel/UCAssIRzQX_Ohi1I8eWzcRxQ'
 global.sc = 'https://youtube.com/channel/UCAssIRzQX_Ohi1I8eWzcRxQ'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCAssIRzQX_Ohi1I8eWzcRxQ'
-global.dana = '089510598381'
-global.pulsa = '089510598381'
-global.gopay = '089510598381'
+global.dana = '089504231588'
+global.pulsa = '089504231588'
+global.gopay = '089504231588'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.namebot = '𝖆𝖗𝖆𝖆-𝖇𝖔𝖙𝖟'
 global.gc = 'https://chat.whatsapp.com/KNkpoT4oX5yFA18GlPttgl'
-global.web = 'https://youtube.com/channel/UCAssIRzQX_Ohi1I8eWzcRxQ' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/karfuanyogich'
-global.pulsa = '089510598381'
-global.nomer = 'https://wa.me/6289510598381' //ganti jadi nomor mu
+global.web = 'https://www.instagram.com/tyarard20' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com/rizkyrajinsekolah5'
+global.pulsa = '089504231588'
+global.nomer = 'https://wa.me/6289504231588' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,10 +44,10 @@ global.fotonya8 = 'https://telegra.ph/file/dd3e61659b3a797c071bf.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/c184d1529588f68323863.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.wm = '𝑨𝒓𝒂𝒂 𝒌𝒂𝒘𝒂𝒊𝒊'
 global.watermark = wm
-global.wm2 = 'ᯤ Made By YogzFX'
-global.wm3 = 'ᯤ YogzFX'
+global.wm2 = 'ᯤ Made By 𝑨𝒓𝒂𝒂 𝒌𝒂𝒘𝒂𝒊𝒊'
+global.wm3 = 'ᯤ 𝖆𝖗𝖆𝖆-𝖇𝖔𝖙𝖟'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
-global.author = 'Made By @YogzFX'
+global.packname = 'Created By 𝖆𝖗𝖆𝖆-𝖇𝖔𝖙𝖟'
+global.author = 'Made By @𝑨𝒓𝒂𝒂 𝒌𝒂𝒘𝒂𝒊𝒊'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
